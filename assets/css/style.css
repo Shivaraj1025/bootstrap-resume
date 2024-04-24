@@ -56,14 +56,14 @@ ul{
   font-weight: bold !important;
   border-radius: 0 !important;
   text-transform: uppercase !important;
-  color: #fff;
+  color: #121de4;
 
 
 }
 
 .btn-primary{
-  color: #fff !important;
-  background: #fff !important;
+  color: #eae7f7 !important;
+  background: #5305f0 !important;
 }
 .column-block{
   display: flex;
